@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Камень Ножницы Бумага</string>
+    <string name="empty_option">Что выбираешь?</string>
+</resources>
